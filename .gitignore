@@ -5,3 +5,6 @@ ml_resized_Tiger/
 resized_Lion/
 resized_Tiger/
 Tiger/
+.DS_Store
+*.pyc
+__pycache__/
